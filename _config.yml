@@ -98,7 +98,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-  _pages
+  # _pages
   - scope:
       path: "_pages"
       type: pages
