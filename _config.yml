@@ -66,6 +66,9 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/fengkai-lin-221830214/"
+    - label: "Email"
+      icon: "fab fa-fw fa-envelope"
+      url: "fengkailin7788@gmail.com"
 
 footer:
   links:
@@ -75,6 +78,9 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/fengkai-lin-221830214/"
+    - label: "Email"
+      icon: "fab fa-fw fa-envelope"
+      url: "fengkailin7788@gmail.com"
 
 defaults:
   # _posts
