@@ -67,7 +67,7 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/fengkai-lin-221830214/"
     - label: "Email"
-      icon: "fab fa-fw fa-envelope"
+      icon: "fab fa-solid fa-envelope"
       url: "fengkailin7788@gmail.com"
 
 footer:
@@ -91,13 +91,13 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-  # _projects
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
+  # # _projects
+  # - scope:
+  #     path: ""
+  #     type: posts
+  #   values:
+  #     layout: single
+  #     author_profile: true
   # _pages
   - scope:
       path: "_pages"
