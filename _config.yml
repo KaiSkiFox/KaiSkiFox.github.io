@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Coding Subsidiary Space - Fengkai Lin
+title: Subsidiary Code Space - Fengkai Lin
 email: fengkailin7788@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my website! This is where I post random coding projects that interests me.
@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Fengkai Lin"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Umass - Amherst Graduates. Bachelor degree for Biochemistry and Molecular Biology and Computer Science."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -79,7 +79,7 @@ footer:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/fengkai-lin-221830214/"
     - label: "Email"
-      icon: "fab fa-fw fa-envelope"
+      icon: "fa fa-envelope"
       url: "fengkailin7788@gmail.com"
 
 defaults:
