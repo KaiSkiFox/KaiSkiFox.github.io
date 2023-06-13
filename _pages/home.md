@@ -1,7 +1,7 @@
 ---
 title: "Posts"
 permalink: /
-layout: single
+layout: home
 header:
   image: /assets/images/Recursive-header.png
 ---
