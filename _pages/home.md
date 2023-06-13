@@ -1,6 +1,6 @@
 ---
 title: "Posts"
-permalink: //
+permalink: /
 layout: single
 header:
   image: /assets/images/Recursive-header.png

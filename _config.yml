@@ -83,7 +83,7 @@ footer:
       url: "fengkailin7788@gmail.com"
 
 defaults:
-  # _posts
+  # _pages
   - scope:
       path: ""
       type: pages
