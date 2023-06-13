@@ -89,8 +89,9 @@ defaults:
       type: posts
     values:
       layout: single
+      header:
+        image: /assets/images/Recursive-header.png
       author_profile: true
-      read_time: true
   # _pages
   - scope:
       path: "_pages"
