@@ -7,4 +7,4 @@ tags:
   - Post Formats
 link: https://github.com/KaiSkiFox/Donut
 ---
-Hey! Listen!
+An exploration on rendering 3D object using math.
