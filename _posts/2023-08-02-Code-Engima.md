@@ -1,5 +1,5 @@
 ---
-title: "Post: Standard"
+title: "The Engima Machine"
 excerpt_separator: "<!--more-->"
 ---
 
