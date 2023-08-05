@@ -3,7 +3,7 @@ title: "Post: Standard"
 excerpt_separator: "<!--more-->"
 ---
 
-***[Engima Machine](https://github.com/KaiSkiFox/EngimaMachine)***
+### [Engima Machine](https://github.com/KaiSkiFox/EngimaMachine)
 
 Engima Machine was famous in World War II, as its revolutionary complex to decrypt yet simple to encode/decode. If you have the settings for one machine, the message is encoded and can be decoded by similar machines with the exact setting. However, bystanders without any knowledge, will have to try over 415,182,802,944 potential permutations to stumble onto the correct one.  
 
